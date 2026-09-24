@@ -8,6 +8,7 @@
 [![Markdown Linter](https://github.com/OWASP/mastg/actions/workflows/markdown-linter.yml/badge.svg?branch=master)](https://github.com/OWASP/mastg/actions/workflows/markdown-linter.yml)
 [![URL Checker](https://github.com/OWASP/mastg/actions/workflows/url-checker.yml/badge.svg?branch=master)](https://github.com/OWASP/mastg/actions/workflows/url-checker.yml)
 
+
 The **OWASP Mobile Application Security Testing Guide (MASTG)** is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the [OWASP Mobile Security Weakness Enumeration (MASWE)](https://github.com/OWASP/maswe "MASWE") weaknesses, which are in alignment with the controls listed in the [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/masvs "MASVS").
 
 > [OWASP MAS](https://mas.owasp.org): [OWASP MASVS](https://mas.owasp.org/MASVS) ➡ [OWASP MASWE](https://mas.owasp.org/MASWE) ➡ [OWASP MASTG](https://mas.owasp.org/MASTG)
